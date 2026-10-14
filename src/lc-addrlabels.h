@@ -58,6 +58,8 @@
 #ifndef __LC_ADDRLABELS_H__
 #define __LC_ADDRLABELS_H__
 
+#include <stddef.h>
+
 /** \hideinitializer */
 typedef void * lc_t;
 
